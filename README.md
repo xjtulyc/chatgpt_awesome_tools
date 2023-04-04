@@ -4,9 +4,8 @@
 
 Chat by API
 
-```
-[Colab Notebook](https://colab.research.google.com/drive/1fGPULHNQqVTmhaoOGvnOAP3LtgLSYHsu?usp=sharing)
-```
+[Open in Colab Notebook](https://colab.research.google.com/drive/1fGPULHNQqVTmhaoOGvnOAP3LtgLSYHsu?usp=sharing)
+
 
 
 ## 2. Docs
